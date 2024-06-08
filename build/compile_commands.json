@@ -55,11 +55,11 @@
    "-IC:\\Users\\mjk\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino",
    "-IC:\\Users\\mjk\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\eightanaloginputs",
    "-IC:\\Users\\mjk\\Documents\\Arduino\\libraries\\Keypad\\src",
-   "C:\\Users\\mjk\\Documents\\Arduino\\libraries\\Keypad\\src\\Key.cpp",
+   "C:\\Users\\mjk\\Documents\\Arduino\\libraries\\Keypad\\src\\Keypad.cpp",
    "-o",
-   "C:\\Users Files\\mjk\\Coding\\Projects\\Research-KeyboardMatrixScanning\\build\\libraries\\Keypad\\Key.cpp.o"
+   "C:\\Users Files\\mjk\\Coding\\Projects\\Research-KeyboardMatrixScanning\\build\\libraries\\Keypad\\Keypad.cpp.o"
   ],
-  "file": "C:\\Users\\mjk\\Documents\\Arduino\\libraries\\Keypad\\src\\Key.cpp"
+  "file": "C:\\Users\\mjk\\Documents\\Arduino\\libraries\\Keypad\\src\\Keypad.cpp"
  },
  {
   "directory": "c:\\Users Files\\mjk\\Coding\\Projects\\Research-KeyboardMatrixScanning",
@@ -86,10 +86,10 @@
    "-IC:\\Users\\mjk\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino",
    "-IC:\\Users\\mjk\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\eightanaloginputs",
    "-IC:\\Users\\mjk\\Documents\\Arduino\\libraries\\Keypad\\src",
-   "C:\\Users\\mjk\\Documents\\Arduino\\libraries\\Keypad\\src\\Keypad.cpp",
+   "C:\\Users\\mjk\\Documents\\Arduino\\libraries\\Keypad\\src\\Key.cpp",
    "-o",
-   "C:\\Users Files\\mjk\\Coding\\Projects\\Research-KeyboardMatrixScanning\\build\\libraries\\Keypad\\Keypad.cpp.o"
+   "C:\\Users Files\\mjk\\Coding\\Projects\\Research-KeyboardMatrixScanning\\build\\libraries\\Keypad\\Key.cpp.o"
   ],
-  "file": "C:\\Users\\mjk\\Documents\\Arduino\\libraries\\Keypad\\src\\Keypad.cpp"
+  "file": "C:\\Users\\mjk\\Documents\\Arduino\\libraries\\Keypad\\src\\Key.cpp"
  }
 ]

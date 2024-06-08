@@ -22,7 +22,7 @@ byte rowPins[ROWS] = {3, 2, 1, 0}; //connect to the row pinouts of the keypad
 byte colPins[COLS] = {7, 6, 5, 4}; //connect to the column pinouts of the keypad
 
 //initialize an instance of class NewKeypad
-Keypad customKeypad = Keypad( makeKeymap(hexaKeys), rowPins, colPins, ROWS, COLS); 
+Keypad customKeypad = Keypad(makeKeymap(hexaKeys), rowPins, colPins, ROWS, COLS); 
 
 void setup(){
   Serial.begin(9600);
